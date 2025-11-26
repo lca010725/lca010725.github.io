@@ -10,11 +10,4 @@ location: "Beijing, China"
 
 Teaching Assistant, 2025-02~2025-06
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teacher: Qing He
