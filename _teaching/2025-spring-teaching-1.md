@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "University of Chinese Academy of Sciences, Computer Science and Technology Department"
-date: 2025-02
+date: 2025-02-01
 location: "Beijing, China"
 ---
 
