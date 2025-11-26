@@ -12,8 +12,6 @@ redirect_from:
 I am currently a fourth-year Ph.D. student at the Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS), under the supervision of Prof. Qing He and Prof. [Xiang Ao](https://aoxaustin.github.io/index.html).
 My research interests include natural language processing (NLP), large language model (LLM) safety, and large language model (LLM) post training.
 
-During my master's stage, I was fortunate to be co-supervised with Dr. [Xinyu Liu](https://ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496680.html).
-
 <span style="color:green">If you have any questions regarding my work or are interested in collaborating with me, please contact me via email. </span>
 
 ## 🔥 Recent News {#news}
