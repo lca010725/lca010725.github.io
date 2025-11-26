@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here are my [English](https://lichengao.github.io/files/CV_en.pdf) and [Chinese](https://lichengao.github.io/files/CV_zh.pdf) CV files. 
+Here are my [English](https://lichengao.github.io/files/CV_en.pdf) and [Chinese](https://lichengao.github.io/files/CV_zh.pdf) CV. 
 
 {% include base_path %}
 
@@ -27,7 +27,7 @@ Work experience
 
 * 10/2021 - 03/2022: Research Intern
   * *Zhejiang Yingyang Asset Management Co., Ltd.*
-  * **Stock Factors Mining**: Developed a deep learning-based low-frequency stock selection model using Pytorch for data processing and factors mining. Tests on historical market transaction data show a compound return of 1.7\%.
+  * **Stock Factors Mining**: Developed a deep learning-based low-frequency stock selection model using Pytorch for data processing and factors mining. Tests on historical market transaction data show a compound return of 1.7%.
 
 Publications
 ======
@@ -52,7 +52,3 @@ Teaching
   * 2nd Prize of Hefei Province in Chinese Mathematics Competition
   * UCAS Merit Student
 * **Patents**: Granted Patent. "A Data Flywheel Fine-Tuning Method and Device" (Patent No. CN120234408A, 2025). Lead Inventor.
-  
-# Service and leadership
-# ======
-# * Currently signed in to 43 different slack teams
