@@ -24,7 +24,7 @@ repository               : "lca010725/lichengao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "llittle_lee.jpg"
   name             : "Chengao Li"
   pronouns         : "he/him"  
   bio              : "Ph.D. student in Institute of Computing Technology, Chinese Academy of Sciences."
