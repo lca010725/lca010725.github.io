@@ -1,5 +1,5 @@
 ---
-title: "White Paper on Safety Evaluation of Generative Large Models (2024)"
+title: "White Book on Safety Evaluation of Generative Large Models (2024)"
 collection: publications
 category: books
 permalink: /publication/2024-12-28-book-title-number-1
