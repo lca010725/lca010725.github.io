@@ -10,11 +10,4 @@ location: "Hefei, China"
 
 Teaching Assistant, 2021-09~2022-01
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teacher: Pingbo Yuan
