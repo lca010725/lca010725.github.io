@@ -10,11 +10,4 @@ location: "Hefei, China"
 
 Teaching Assistant, 2021-02~2021-06
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teacher: Jianhui Ma
