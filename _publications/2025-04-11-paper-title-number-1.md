@@ -7,7 +7,7 @@ excerpt: 'Hanyu Zhang, Xiting Wang*, **Chengao Li**, Xiang Ao, Qing He*.'
 date: 2025-04-11
 venue: 'Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025)'
 # slidesurl: 'https://lichengao.github.io/files/slides1.pdf'
-paperurl: 'https://lichengao.github.io/files/AAAI2025_paper.pdf'
+paperurl: 'https://lca010725.github.io/files/AAAI2025_paper.pdf'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Zhang, H., Wang, X., Li, C., Ao, X., & He, Q. (2025). Controlling Large Language Models Through Concept Activation Vectors. Proceedings of the AAAI Conference on Artificial Intelligence, 39(24), 25851-25859.'
 ---
