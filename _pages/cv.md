@@ -43,12 +43,12 @@ Teaching
 
   Skills
 ======
-* **Technical**: C/C++, SQL, Python, Distributed training \& inference for LLM, Pytorch, [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF), [SGLang](https://github.com/sgl-project/sglang), [Deepspeed](https://github.com/deepspeedai/DeepSpeed)
+* **Technical**: C/C++, SQL, Python, Distributed training & inference for LLM, Pytorch, [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF), [SGLang](https://github.com/sgl-project/sglang), [Deepspeed](https://github.com/deepspeedai/DeepSpeed)
 * **Awards**:
   * USTC Top Talent Program Scholarship
   * USTC Outstanding Student Scholarship
   * Di Ao Scholarship
   * Zeng Xianzi Scholarship
-  * 2nd Prize of Hefei Province in Chinese Mathematics Competition
+  * 2nd Prize of Anhui Province in Chinese Mathematics Competition
   * UCAS Merit Student
 * **Patents**: Granted Patent. "A Data Flywheel Fine-Tuning Method and Device" (Patent No. CN120234408A, 2025). Lead Inventor.
