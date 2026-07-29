@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 07/2024 - Present: Research Intern
+* 07/2024 - 05/2026: Research Intern
   * *Huawei Cloud, Pangu Reinforcement Learning Group*
   * **Safety Alignment**: Conducted multi-objective RLHF on the financial capabilities and security of the Pangu 7B large language model based on the OpenRLHF framework. Maintained the model's general financial capabilities while enhancing its security, achieving improvements in financial compliance abilities.
   * **Latent Reasoning**: Developed a token-level routing strategy for large and small language models under latent reasoning mode based on the SGLang framework, which reduces the generation length and improves the generation speed.
